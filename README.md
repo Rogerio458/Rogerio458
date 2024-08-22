@@ -1,10 +1,10 @@
-Nome:Rogério;
-Idade:15;
-Sexualidade:Lésbica;
-Pronomes:Ele/Dele;
-Hobbies:Desenhar,cozinhar;
-Amo animes;
-Melhores amigos:Andrey,Antony,Arthur,Gustavo(1A)Italo,Gabriel Magrini,Danilo,Pajé e etc.
-Anime favorito:One Piece;
-Garota que eu gosto:Sthephany 2 Ano;
+Boas vindas ao meu perfil 💙💙
+Meu nome é Iasmin
 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+00001126136517SP@al.educacao.sp.gov.br
+
+@alurastartestudante
